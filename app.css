@@ -1,0 +1,30 @@
+#main--container {
+	font-size: 0;
+}
+
+.cell {	
+	display: inline-block;
+	font-size: 14px;
+	margin: 1px;
+	padding: 30px 0px;
+	text-align: center;
+	width: 94px;
+
+}
+
+.cell-number {
+	background-color: #eeeeee;
+}
+
+.cell-fizz {
+	background-color: #ffffe0;
+}
+
+.cell-buzz {
+	background-color: #add8e6;
+}
+
+.cell-fizz-buzz {
+	background-color: #90e090;
+	cursor: pointer;
+}
